@@ -49,6 +49,8 @@ file_to_search = get_file_to_search()
 
 #search the file for a pattern, and return the contents of the line the matches the pattern
 def search_file(file_to_search):
+    #clear line_list
+    line_list.clear()
     #Ask the user to enter a pattern to search for
     print("\nPlease enter a pattern to search for:")
     pattern = input("\nEnter pattern: ")
