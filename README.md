@@ -9,4 +9,8 @@ Searches for patterns in an ARP / MAC table
 
 ## Output in the created *```search_results.txt```* file
 ![image](https://user-images.githubusercontent.com/48565067/161294534-e520079c-4e7f-4202-85c7-bbe9580b30e6.png)
-## This app is free❗
+
+## Fixes / Updates
+* Fix for a situation where there may be resource exhaustion (04/11/2022)
+
+## *This app is free❗*
