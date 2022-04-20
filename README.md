@@ -4,7 +4,7 @@ Searches for patterns in an ARP / MAC table
 * A file with the contents of an ARP / MAC or any other table you want to search through
 ---
 ## Output
-![image](https://user-images.githubusercontent.com/48565067/161294018-e5458f7c-e538-423a-bc43-4c5808c4612d.png)<br>
+![image](https://user-images.githubusercontent.com/48565067/164325156-dd8b4adf-8c01-4431-a3e6-ff3bc8157467.png)
 ![image](https://user-images.githubusercontent.com/48565067/161297136-6bbb24e9-2808-4db4-bff0-a30c378168ff.png)
 
 ## Output in the created *```search_results.txt```* file
