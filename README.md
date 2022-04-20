@@ -11,6 +11,7 @@ Searches for patterns in an ARP / MAC table
 ![image](https://user-images.githubusercontent.com/48565067/161294534-e520079c-4e7f-4202-85c7-bbe9580b30e6.png)
 
 ## Fixes / Updates
+* Added an intro (04/20/2022)
 * Bug fix (04/12/2022)
 * Fix for a situation where there may be resource exhaustion (04/11/2022)
 
